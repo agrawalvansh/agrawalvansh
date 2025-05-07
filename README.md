@@ -38,16 +38,10 @@
   <img src="https://github-profile-trophy.vercel.app/?username=agrawalvansh&theme=algolia" alt="agrawalvansh" />
 </p>
 
-### 🎧 Now Playing on Spotify (Optional)
-<!-- If using Vercel + Spotify API -->
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=your_spotify_uid&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&bar_color=53b14f&bar_color_cover=false" alt="Spotify Now Playing" />
-</p>
-
 ### 📬 Connect With Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-linkedin" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="mailto:yourmail@example.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/agrawalvansh" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
+  <a href="mailto:agrawalvanshn@gmail.com" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" alt="gmail" height="30" width="40" /></a>
 </p>
 
 ### ⏳ Recent GitHub Activity (Optional)
