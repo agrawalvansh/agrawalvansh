@@ -1,10 +1,10 @@
 <h1>⚡Vansh Agrawal</h1>
-<p>A passionate frontend developer from </p>
+<p>A passionate Software Developer from Bangalore, India</p>
 <p><a href='https://www.agrawalvansh.me/' target="_blank"><img alt='react' src='https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black&color=black'/></a>
 <a target="_blank" href="https://www.linkedin.com/in/agrawalvansh" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></p>
-<p>Hi! I’m Vansh Agrawal—a final‑year Computer Science student at GITAM University, Bangalore—passionate about building tech solutions that are both useful and user‑friendly. I enjoy working across the entire stack, from frontend interfaces to backend logic, and I’m especially interested in ServiceNow, React.js, and full‑stack web development.
+<p>Hi! I’m Vansh Agrawal a final year Computer Science student at GITAM University, Bangalore passionate about building tech solutions that are both useful and user friendly. I enjoy working across the entire stack, from frontend interfaces to backend logic, and I’m especially interested in ServiceNow, React.js, and fullstack web development.
 
-My focus is on solving real‑world problems through technology. My projects include offline inventory management for small businesses, digital platforms that streamline emergency response coordination, and web apps connecting people to gardening services. Whether it’s a hackathon, a personal prototype, or an internship assignment, I love turning ideas into products that work.
+My focus is on solving real world problems through technology. My projects include offline inventory management for small businesses, digital platforms that streamline emergency response coordination, and web apps connecting people to gardening services. Whether it’s a hackathon, a personal prototype, or an internship assignment, I love turning ideas into products that work.
 
 I’m always open to collaboration and learning new tools. Feel free to explore my repositories and reach out if you’d like to work together or have any questions! Let us work together to create something extraordinary!</p>
 <h2>🔨 Here are the tools, libraries, technologies and frameworks I've worked with:</h2>
