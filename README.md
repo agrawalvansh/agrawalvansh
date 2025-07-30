@@ -2,11 +2,19 @@
 <p>A passionate Software Developer from Bangalore, India</p>
 <p><a href='https://www.agrawalvansh.me/' target="_blank"><img alt='react' src='https://img.shields.io/badge/PORTFOLIO-100000?style=for-the-badge&logo=react&logoColor=61DBFB&labelColor=black&color=black'/></a>
 <a target="_blank" href="https://www.linkedin.com/in/agrawalvansh" style="display: inline-block;"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" /></a></p>
-<p>Hi! I’m Vansh Agrawal a final year Computer Science student at GITAM University, Bangalore passionate about building tech solutions that are both useful and user friendly. I enjoy working across the entire stack, from frontend interfaces to backend logic, and I’m especially interested in ServiceNow, React.js, and fullstack web development.
+<p>
+  Hey there! Thanks for taking such a keen interest in me. Hopefully you're not gonna spam or stalk me... Okay, I guess if you must stalk me, just give me fair warning so I can look presentable when you arrive at my door.
 
-My focus is on solving real world problems through technology. My projects include offline inventory management for small businesses, digital platforms that streamline emergency response coordination, and web apps connecting people to gardening services. Whether it’s a hackathon, a personal prototype, or an internship assignment, I love turning ideas into products that work.
+  Right, so, where to begin? Well, my parents met in... Nah, just kidding. As you probably know, my name is Vansh Agrawal. I'm 21 year old CSE Student born and bred in the beautiful Nashik, Maharashtra, India and currently living in Bangalore, Karnataka, India.
 
-I’m always open to collaboration and learning new tools. Feel free to explore my repositories and reach out if you’d like to work together or have any questions! Let us work together to create something extraordinary!</p>
+  I will be graduating in 2026 with from the GITAM University with a Bachelors of Technology degree in Computer Science and Engineering. It comprised of four years of computer science courses (for example, Web Development, Software Engineering, Data Structures and Algorithms, DBMS.)
+
+  I enjoy working across the entire stack, from frontend interfaces to backend logic, and I’m especially interested in ServiceNow, React.js, and fullstack web development.
+
+  Nowadays I'm developing a method to download food... I wish! My projects include offline inventory management for small businesses, digital platforms that streamline emergency response coordination, and web app connecting people to gardening services. Whether it’s a hackathon, a personal prototype, or an internship assignment, I love turning ideas into products that work.
+
+  Please feel free to get in touch with me to discuss any cool opportunities. My contact details can be found above or you can reach me out through my website - <a href="https://www.agrawalvansh.me/">agrawalvansh.me</a>
+  </p>
 <h2>🔨 Here are the tools, libraries, technologies and frameworks I've worked with:</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="42" height="42" /></a>
 <a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="42" height="42" /></a>
