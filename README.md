@@ -15,11 +15,7 @@
   Please feel free to get in touch with me to discuss any cool opportunities. My contact details can be found above or you can reach me out through my website - <a href="https://www.agrawalvansh.me/">agrawalvansh.me</a>
 </p>
 
-<br>
-
 ## Connect with Me!!!
-
-<br>
 
 <div>
 
@@ -30,13 +26,9 @@
 
 </div>
 
-<br>
-
 ---
 
 ## My Skills
 [![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,angular,nodejs,expressjs,webpack,sqlite,firebase,appwrite,git,npm,postman,linux,electron,figma&theme=dark)](https://skillicons.dev)
-
-<br>
 
 ---
