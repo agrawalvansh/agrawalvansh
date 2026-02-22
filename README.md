@@ -1,10 +1,10 @@
 <h1>⚡Vansh Agrawal</h1>
-<p>A passionate Software Developer from Bangalore, India</p>
+<p>A passionate Software Developer from Hyderabad, India</p>
 
 <p>
   Hey there! Thanks for taking such a keen interest in me. Hopefully you're not gonna spam or stalk me... Okay, I guess if you must stalk me, just give me fair warning so I can look presentable when you arrive at my door.
 
-  Right, so, where to begin? Well, my parents met in... Nah, just kidding. As you probably know, my name is Vansh Agrawal. I'm 21 year old CSE Student born and bred in the beautiful Nashik, Maharashtra, India and currently living in Bangalore, Karnataka, India.
+  Right, so, where to begin? Well, my parents met in... Nah, just kidding. As you probably know, my name is Vansh Agrawal. I'm 21 year old CSE Student born and bred in the beautiful Nashik, Maharashtra, India and currently living in Hyderabad, Telangana, India.
 
   I will be graduating in 2026 with from the GITAM University with a Bachelors of Technology degree in Computer Science and Engineering. It comprised of four years of computer science courses (for example, Web Development, Software Engineering, Data Structures and Algorithms, DBMS.)
 
