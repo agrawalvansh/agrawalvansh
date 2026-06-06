@@ -1,19 +1,21 @@
-<h1>⚡Vansh Agrawal</h1>
-<p>A passionate Software Developer from Hyderabad, India</p>
+<h1>⚡ Vansh Agrawal</h1>
+<p>Software Developer &nbsp;·&nbsp; ServiceNow Certified &nbsp;·&nbsp; Hyderabad, India</p>
 
 <p>
-  Hey there! Thanks for taking such a keen interest in me. Hopefully you're not gonna spam or stalk me... Okay, I guess if you must stalk me, just give me fair warning so I can look presentable when you arrive at my door.
-
-  Right, so, where to begin? Well, my parents met in... Nah, just kidding. As you probably know, my name is Vansh Agrawal. I'm 21 year old CSE Student born and bred in the beautiful Nashik, Maharashtra, India and currently living in Hyderabad, Telangana, India.
-
-  I will be graduating in 2026 with from the GITAM University with a Bachelors of Technology degree in Computer Science and Engineering. It comprised of four years of computer science courses (for example, Web Development, Software Engineering, Data Structures and Algorithms, DBMS.)
-
-  I enjoy working across the entire stack, from frontend interfaces to backend logic, and I’m especially interested in ServiceNow, React.js, and fullstack web development.
-
-  Nowadays I'm developing a method to download food... I wish! My projects include offline inventory management for small businesses, digital platforms that streamline emergency response coordination, and web app connecting people to gardening services. Whether it’s a hackathon, a personal prototype, or an internship assignment, I love turning ideas into products that work.
-
-  Please feel free to get in touch with me to discuss any cool opportunities. My contact details can be found above or you can reach me out through my website - <a href="https://www.agrawalvansh.me/">agrawalvansh.me</a>
+  Hey there! Thanks for taking such a keen interest in me. Hopefully you're not going to spam or stalk me... Okay, if you must stalk me, at least give me fair warning so I can look presentable when you arrive at my door.
+  <br/><br/>
+  Right, where to begin? Well, my parents met in... Nah, just kidding. My name is Vansh Agrawal — freshly graduated with a B.Tech in CSE from GITAM University, Bangalore (May 2026). Born and raised in Nashik, Maharashtra, currently based in Hyderabad, Telangana.
+  <br/><br/>
+  I'm interning as a <strong>Business Technology Analyst at Deloitte USI</strong>, working on ServiceNow CSM and CPQ implementations. Dual certified (CSA + CAD). I have strong opinions about guided selling flows. You probably don't want to bring it up at dinner.
+  <br/><br/>
+  On the side, I build things: a React portfolio with an AI-powered chat interface and an orange cat mascot named Pixel, a Flutter B2B ordering app for my family's wholesale business, a cloud-based telehealth platform, and ResQLink — an emergency response system that won Runner-Up at a national hackathon with 265+ teams. Not that I'm counting. (I am 100% counting.)
+  <br/><br/>
+  Currently working on a method to download food. I wish! What I'm actually working on: building CRM solutions for enterprises — ServiceNow CSM and CPQ implementations at Deloitte USI, helping companies manage customer service workflows and configure complex product pricing at scale.
+  <br/><br/>
+  Feel free to reach out for cool opportunities — contact details are above, or find me at <a href="https://www.agrawalvansh.me/">agrawalvansh.me</a>. <!--Yes, the one with the orange cat. ---!> 
 </p>
+
+---
 
 ## Connect with Me!!!
 
@@ -28,7 +30,14 @@
 
 ---
 
-## My Skills
-[![My Skills](https://skillicons.dev/icons?i=cpp,js,html,css,tailwind,react,angular,nodejs,expressjs,webpack,sqlite,firebase,appwrite,git,npm,postman,linux,electron,figma&theme=dark)](https://skillicons.dev)
+## 🛠️ My Skills
+
+[![My Skills](https://skillicons.dev/icons?i=cpp,js,ts,html,css,tailwind,react,angular,nodejs,expressjs,nextjs,flutter,webpack,sqlite,firebase,appwrite,git,npm,postman,linux,electron,figma&theme=dark)](https://skillicons.dev)
 
 ---
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=agrawalvansh&color=F97316&style=for-the-badge&label=Profile+Views" />
+  <br/><br/>
+  <i>If you made it this far, you're either really interested or really bored. Either way, let's talk.</i>
+</div>
